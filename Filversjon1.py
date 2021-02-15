@@ -1,6 +1,7 @@
-#Filversjon 1
+#Filversjon 2
+
 import arcpy
+
 import sys
 
-print("skriver ut Filversjon 1")
-
+print("skriver ut Filversjon 2")
